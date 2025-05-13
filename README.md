@@ -28,36 +28,6 @@
 
 ---
 
-## 🎮 Games I Work With
-
-```text
-🎯 The Finals
-🔫 CS:GO
-🚁 PUBG
-🔥 Free Fire
-🧨 Standoff 2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## 🔧 Tech Stack & Tools:
 - Languages: **C#**, **JavaScript**
