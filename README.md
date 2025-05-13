@@ -15,7 +15,7 @@
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 🔧 
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
